@@ -21,15 +21,15 @@ const HomeServices = () => {
     },
     {
       name: 'Mental Support from NGOs',
-      whatsapp: '9655836135', // Replace with the actual WhatsApp number
+      whatsapp: '8448520755', // Replace with the actual WhatsApp number
     },
     {
       name: 'Cooking Assistance',
-      whatsapp: '6374783198', // Replace with the actual WhatsApp number
+      whatsapp: '8448520755', // Replace with the actual WhatsApp number
     },
     {
       name: 'Cleaning Assistance',
-      whatsapp: '6374783198', // Replace with the actual WhatsApp number
+      whatsapp: '8448520755', // Replace with the actual WhatsApp number
     },
     {
       name: 'Home Care Assistance',
