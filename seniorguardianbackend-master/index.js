@@ -25,7 +25,7 @@ const Services =require('./models/Services');
 
 // CORS Configuration
 const corsOptions = {
-  origin: 'https://oldcare-connect.vercel.app/',
+  origin: 'https://oldcare-connect.vercel.app',
   credentials: true,
   optionSuccessStatus: 200,
 };
