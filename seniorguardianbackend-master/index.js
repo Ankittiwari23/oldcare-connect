@@ -163,7 +163,7 @@ async function sendNotifications() {
 
       const mailOptions = {
         from: SMTP_MAIL, // Replace with your Gmail username
-        to: "vikashchand147@gmail.com",
+        to: "ankittiwari0923@gmail.com",
         subject: 'Upcoming Task Reminders',
         text: emailContent,
       };
