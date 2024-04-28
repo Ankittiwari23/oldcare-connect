@@ -1,7 +1,7 @@
 import React from 'react';
 
 const Fall = () => {
-  const url = 'https://fall-detection.vercel.app/';
+  const url = 'https://fall-detect.vercel.app/';
 
   // CSS styles for the iframe container
   const iframeContainerStyle = {
