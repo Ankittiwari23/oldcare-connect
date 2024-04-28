@@ -13,27 +13,27 @@ const HomeServices = () => {
   const services = [
     {
       name: 'Shopping Assistance',
-      whatsapp: '8448520755', // Replace with the actual WhatsApp number
+      whatsapp: '7909495575', // Replace with the actual WhatsApp number
     },
     {
       name: 'Birthday/Social  Organization',
-      whatsapp: '8448520755', // Replace with the actual WhatsApp number
+      whatsapp: '7909495575', // Replace with the actual WhatsApp number
     },
     {
       name: 'Mental Support from NGOs',
-      whatsapp: '8448520755', // Replace with the actual WhatsApp number
+      whatsapp: '7909495575', // Replace with the actual WhatsApp number
     },
     {
       name: 'Cooking Assistance',
-      whatsapp: '8448520755', // Replace with the actual WhatsApp number
+      whatsapp: '7909495575', // Replace with the actual WhatsApp number
     },
     {
       name: 'Cleaning Assistance',
-      whatsapp: '8448520755', // Replace with the actual WhatsApp number
+      whatsapp: '7909495575', // Replace with the actual WhatsApp number
     },
     {
       name: 'Home Care Assistance',
-      whatsapp: '7551067902', // Replace with the actual WhatsApp number
+      whatsapp: '7909495575', // Replace with the actual WhatsApp number
     },
   ];
 
